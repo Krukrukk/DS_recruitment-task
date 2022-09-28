@@ -8,8 +8,10 @@ Następnie skonstruuj funkcję “dt_bagg”, która wykorzystywać będzie funk
 ### Zadanie 3
 Wykorzystaj napisaną przez siebie funkcję “dt_bagg”, aby na podstawie danych z załączonych plików (pliki “signal.csv”, “time.csv” oraz “descriptive.csv”) zbudować odpowiednie modele prognozujące zmienną “y” za pomocą zmiennych “x_1”-“x_78”. Dokonaj podziału na zbiór treningowy oraz zbiór testowy losując 150 obserwacji.
 Porównaj jakość otrzymanych prognoz w oparciu o: 
-•	Wykorzystanie funkcji “dt_bagg” która zbuduje 100 niezależnych drzew, gdzie każde indywidualne drzewo uczone będzie na 80% obserwacji ze zbioru treningowego oraz 80% dostępnych atrybutów 
-•	Wykorzystanie funkcji “dt_bagg” która zbuduje 200 niezależnych drzew, gdzie każde indywidualne drzewo uczone będzie na 70% obserwacji ze zbioru treningowego oraz 50% dostępnych atrybutów
+<ul>
+  <li>Wykorzystanie funkcji “dt_bagg” która zbuduje 100 niezależnych drzew, gdzie każde indywidualne drzewo uczone będzie na 80% obserwacji ze zbioru treningowego oraz 80% dostępnych atrybutów </li>
+  <li>Wykorzystanie funkcji “dt_bagg” która zbuduje 200 niezależnych drzew, gdzie każde indywidualne drzewo uczone będzie na 70% obserwacji ze zbioru treningowego oraz 50% dostępnych atrybutów </li>
+</ul>
 Oceń i porównaj na zbiorze testowym jakość prognoz otrzymanych za pomocą obu podejść.
 Czy dobór (hiper)parametrów ma wpływ na otrzymywane wyniki? Czy jesteś w stanie zaproponować inny (lepszy) dobór tych parametrów?
 
@@ -17,6 +19,5 @@ Czy dobór (hiper)parametrów ma wpływ na otrzymywane wyniki? Czy jesteś w sta
 
 ### Zadanie 4 
 Przygotuj omówienie zadania oraz otrzymanych wyników w postaci prostej prezentacji na max 10 minut.
-
 
 
