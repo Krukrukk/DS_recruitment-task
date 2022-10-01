@@ -1,0 +1,17 @@
+type_model: dt_bagg
+
+num_of_test_samples: 150
+
+DecisionTree:
+  'criterion': "squared_error"
+  'max_depth': 10
+  'min_samples_split': 4
+
+RandomForest:
+  'n_trees': 200
+
+Bagging_atribute:
+  'pct_of_training_samples': 0.8
+  'pct_of_features': 0.8
+
+seed: 42
