@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/2460865d91b94e37966572b3a772514c/artifacts
+end_time: 1664584965807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 2460865d91b94e37966572b3a772514c
+run_uuid: 2460865d91b94e37966572b3a772514c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1664584963478
+status: 3
+tags: []
+user_id: MaciekM
