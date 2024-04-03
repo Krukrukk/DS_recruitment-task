@@ -1,4 +1,4 @@
-# 3Soft - Zadanie rekrutacyjne na stanowisko Data Scientist
+# Zadanie rekrutacyjne na stanowisko Data Scientist
 ## Wprowadzenie
 Do prawidłowego funkcjonowania kodu zachęcam do stworzyć wirtualne środowisco `venv` oraz zaimportować wszystkie biblioteki z pliku `requirements.txt`. Pozostałe instrukcje zostały opisane w notatnikach `Jupyter notebook`.
 
